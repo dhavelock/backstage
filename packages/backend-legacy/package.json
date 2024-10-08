@@ -71,7 +71,7 @@
     "better-sqlite3": "^11.0.0",
     "dockerode": "^4.0.0",
     "example-app": "link:../app",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-prom-bundle": "^7.0.0",
     "express-promise-router": "^4.1.0",
     "luxon": "^3.0.0",

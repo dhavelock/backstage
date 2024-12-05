@@ -62,7 +62,7 @@
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "@backstage/plugin-search-backend-node": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
     "@backstage/types": "workspace:^",

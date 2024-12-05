@@ -47,8 +47,8 @@
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-scaffolder-backend-module-bitbucket-cloud": "workspace:^",
-    "@backstage/plugin-scaffolder-backend-module-bitbucket-server": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-backend-module-bitbucket-server": "0.2.3",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "fs-extra": "^11.2.0",
     "node-fetch": "^2.7.0",
     "yaml": "^2.0.0"

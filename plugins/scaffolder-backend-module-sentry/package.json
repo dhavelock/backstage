@@ -45,7 +45,7 @@
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "node-fetch": "^2.7.0",
     "yaml": "^2.3.3"
   },

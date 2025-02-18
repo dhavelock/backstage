@@ -129,7 +129,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/integration-aws-node": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.6.0",
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/types": "workspace:^",

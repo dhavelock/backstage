@@ -32,7 +32,7 @@
   "dependencies": {
     "@backstage/cli-common": "workspace:^",
     "@backstage/release-manifests": "workspace:^",
-    "@yarnpkg/core": "^4.0.3",
+    "@yarnpkg/core": "^4.1.6",
     "@yarnpkg/fslib": "^3.0.2",
     "chalk": "^4.0.0",
     "lodash": "^4.17.21",

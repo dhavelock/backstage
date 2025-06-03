@@ -13,12 +13,12 @@
     "directory": "packages/techdocs-cli-embedded-app"
   },
   "dependencies": {
-    "@backstage/app-defaults": "workspace:^",
+    "@backstage/app-defaults": "0.1.0",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/core-app-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/integration-react": "workspace:^",
     "@backstage/plugin-catalog": "workspace:^",

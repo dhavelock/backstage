@@ -48,7 +48,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/config-loader": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/eslint-plugin": "workspace:^",
+    "@backstage/eslint-plugin": "0.1.0",
     "@backstage/integration": "workspace:^",
     "@backstage/release-manifests": "workspace:^",
     "@backstage/types": "workspace:^",

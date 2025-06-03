@@ -61,8 +61,8 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-openapi-utils": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-openapi-utils": "0.1.7",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-client": "workspace:^",

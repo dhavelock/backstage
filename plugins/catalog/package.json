@@ -60,8 +60,8 @@
   "dependencies": {
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-compat-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-compat-api": "0.0.0",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/frontend-plugin-api": "workspace:^",
@@ -71,7 +71,7 @@
     "@backstage/plugin-permission-react": "workspace:^",
     "@backstage/plugin-scaffolder-common": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
-    "@backstage/plugin-search-react": "workspace:^",
+    "@backstage/plugin-search-react": "0.1.0",
     "@backstage/types": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
@@ -81,7 +81,7 @@
     "dataloader": "^2.0.0",
     "expiry-map": "^2.0.0",
     "history": "^5.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "pluralize": "^8.0.0",
     "react-use": "^17.2.4",
     "zen-observable": "^0.10.0"

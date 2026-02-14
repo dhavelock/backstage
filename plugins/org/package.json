@@ -51,12 +51,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-compat-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/core-compat-api": "0.0.0",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
-    "@backstage/plugin-catalog-common": "workspace:^",
+    "@backstage/frontend-plugin-api": "0.0.0",
+    "@backstage/plugin-catalog-common": "0.1.0",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",

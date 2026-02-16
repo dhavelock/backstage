@@ -84,7 +84,7 @@
     "@backstage/plugin-scaffolder-backend-module-gitea": "workspace:^",
     "@backstage/plugin-scaffolder-backend-module-github": "workspace:^",
     "@backstage/plugin-scaffolder-backend-module-gitlab": "workspace:^",
-    "@backstage/plugin-scaffolder-common": "workspace:^",
+    "@backstage/plugin-scaffolder-common": "1.0.0",
     "@backstage/plugin-scaffolder-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "@opentelemetry/api": "^1.3.0",

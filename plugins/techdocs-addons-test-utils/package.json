@@ -47,7 +47,7 @@
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-search-react": "workspace:^",
     "@backstage/plugin-techdocs": "workspace:^",
-    "@backstage/plugin-techdocs-react": "workspace:^",
+    "@backstage/plugin-techdocs-react": "0.1.0",
     "@backstage/test-utils": "workspace:^",
     "@types/react": "^16.13.1 || ^17.0.0 || ^18.0.0",
     "testing-library__dom": "^7.29.4-beta.1"

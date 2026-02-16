@@ -64,7 +64,7 @@
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-permission-react": "workspace:^",
-    "@backstage/plugin-scaffolder-common": "workspace:^",
+    "@backstage/plugin-scaffolder-common": "1.0.0",
     "@backstage/theme": "workspace:^",
     "@backstage/types": "workspace:^",
     "@backstage/version-bridge": "workspace:^",

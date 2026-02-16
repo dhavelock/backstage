@@ -40,7 +40,7 @@
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-kubernetes-common": "workspace:^",
+    "@backstage/plugin-kubernetes-common": "0.2.8",
     "@backstage/types": "workspace:^",
     "@kubernetes/client-node": "^0.20.0",
     "node-fetch": "^2.7.0",

@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@backstage-community/plugin-explore-common": "^0.0.4",
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",

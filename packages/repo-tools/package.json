@@ -52,7 +52,7 @@
     "@manypkg/get-packages": "^1.1.3",
     "@microsoft/api-documenter": "^7.22.33",
     "@microsoft/api-extractor": "^7.36.4",
-    "@openapitools/openapi-generator-cli": "^2.7.0",
+    "@openapitools/openapi-generator-cli": "^2.30.0",
     "@stoplight/spectral-core": "^1.18.0",
     "@stoplight/spectral-formatters": "^1.1.0",
     "@stoplight/spectral-functions": "^1.7.2",
@@ -72,7 +72,7 @@
     "lodash": "^4.17.21",
     "minimatch": "^9.0.0",
     "p-limit": "^3.0.2",
-    "portfinder": "^1.0.32",
+    "portfinder": "^1.0.34",
     "yaml-diff-patch": "^2.0.0"
   },
   "devDependencies": {
